@@ -17,7 +17,6 @@ This repository contains public assets, plugins, documentation, and technical gu
 ## Featured Projects
 
 - `mu-plugins/` → WordPress snippets (login branding, SVG support, admin tweaks)  
-- `docs/` → Modular proposals, contracts, and onboarding templates  
 - `checklists/` → DNS, email, and compliance validation workflows  
 - `assets/` → Logos, icons, and visual components for client use  
 - `public/` → HTML/CSS/JS boilerplates for landing pages and microsites  
