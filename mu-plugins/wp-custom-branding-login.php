@@ -1,6 +1,6 @@
 <?php
 /**
- * Author: Alvaliving Design Studio
+ * Author: Alvaliving Studio
  * Plugin: Custom Branding
  * Description: Example of branding for WordPress login page.
  */
