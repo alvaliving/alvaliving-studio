@@ -1,6 +1,6 @@
 <?php
 /**
- * Author: Alvaliving Design Studio
+ * Author: Alvaliving Studio
  * Plugin: SVG Upload Support
  * Description: Enables SVG file uploads in WordPress media library.
  */
