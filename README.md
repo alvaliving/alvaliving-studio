@@ -1,6 +1,6 @@
-# Alvaliving Design Studio
+# Alvaliving Studio
 
-**Digital agency specializing in web design, SEO, and modular technical solutions for online businesses.**
+**Brand Strategy & UX Web Design. Building digital experiences for brands, businesses, and institutions. Where creativity meets strategic clarity.**
 
 This repository contains public assets, plugins, documentation, and technical guides developed by Alvaliving Design Studio.
 
@@ -24,7 +24,7 @@ This repository contains public assets, plugins, documentation, and technical gu
 ## Links
 
 - Website: [https://alvaliving.com](https://alvaliving.com)  
-- LinkedIn: [Alvaliving Design Studio](https://www.linkedin.com/company/alvaliving/)  
+- LinkedIn: [Alvaliving Studio](https://www.linkedin.com/company/alvaliving/)  
 - GitHub Profile: [github.com/alvaliving](https://github.com/alvaliving)
 
 ## License
